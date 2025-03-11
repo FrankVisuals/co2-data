@@ -1,18 +1,77 @@
 [
   {
     "identifier": "AIR",
-    "factor": 4.4
+    "factor": 4.4,
+    "origin_country": "DE"
   },
   {
     "identifier": "TRUCK",
-    "factor": 2.5
+    "factor": 2.5,
+    "origin_country": "DE"
   },
   {
     "identifier": "TRAIN",
-    "factor": 1.2
+    "factor": 1.2,
+    "origin_country": "DE"
   },
   {
     "identifier": "SHIP",
-    "factor": 3.4
+    "factor": 3.4,
+    "origin_country": "DE"
+  },
+  {
+    "identifier": "AIR",
+    "factor": 4.5,
+    "origin_country": "PL"
+  },
+  {
+    "identifier": "TRUCK",
+    "factor": 2.7,
+    "origin_country": "PL"
+  },
+  {
+    "identifier": "TRAIN",
+    "factor": 1.5,
+    "origin_country": "PL"
+  },
+  {
+    "identifier": "SHIP",
+    "factor": 3.2,
+    "origin_country": "PL"
+  },
+  {
+    "identifier": "AIR",
+    "factor": 3.4,
+    "origin_country": "CH"
+  },
+  {
+    "identifier": "TRUCK",
+    "factor": 1.8,
+    "origin_country": "CH"
+  },
+  {
+    "identifier": "TRAIN",
+    "factor": 1.3,
+    "origin_country": "CH"
+  },
+  {
+    "identifier": "AIR",
+    "factor": 4.9,
+    "origin_country": "IT"
+  },
+  {
+    "identifier": "TRUCK",
+    "factor": 3,
+    "origin_country": "IT"
+  },
+  {
+    "identifier": "TRAIN",
+    "factor": 2,
+    "origin_country": "IT"
+  },
+  {
+    "identifier": "SHIP",
+    "factor": 3.5,
+    "origin_country": "IT"
   }
 ]
