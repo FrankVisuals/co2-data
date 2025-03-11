@@ -1,0 +1,11 @@
+[
+  {
+    "identifier": "STRAWBERRY",
+    "country": "DE",
+    "description": "Strawberry",
+    "footprint_value": 0.5,
+    "footprint_unit": "kgco2e",
+    "per_quantity": 1,
+    "per_unit": "kg"
+  }
+]

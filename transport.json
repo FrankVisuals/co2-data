@@ -1,0 +1,18 @@
+[
+  {
+    "identifier": "AIR",
+    "factor": 4.4
+  },
+  {
+    "identifier": "TRUCK",
+    "factor": 2.5
+  },
+  {
+    "identifier": "TRAIN",
+    "factor": 1.2
+  },
+  {
+    "identifier": "SHIP",
+    "factor": 3.4
+  }
+]
