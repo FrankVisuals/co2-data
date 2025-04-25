@@ -7,24 +7,10 @@
     "footprint_unit": "kgCO2e"
   },
   {
-    "identifier": "STRAWBERRY_4712",
-    "country": "PL",
-    "description": "Strawberry from Poland",
-    "footprint_value": 8.6,
-    "footprint_unit": "kgCO2e"
-  },
-  {
     "identifier": "STRAWBERRY_4713",
     "country": "IT",
     "description": "Strawberry from Italy",
     "footprint_value": 6.4,
-    "footprint_unit": "kgCO2e"
-  },
-  {
-    "identifier": "STRAWBERRY_4714",
-    "country": "CH",
-    "description": "Strawberry from Switzerland",
-    "footprint_value": 7.9,
     "footprint_unit": "kgCO2e"
   },
   {
@@ -35,24 +21,10 @@
     "footprint_unit": "kgCO2e"
   },
   {
-    "identifier": "FLOUR_4716",
-    "country": "PL",
-    "description": "Flour from Poland",
-    "footprint_value": 7.2,
-    "footprint_unit": "kgCO2e"
-  },
-  {
     "identifier": "FLOUR_4717",
     "country": "IT",
     "description": "Flour from Italy",
     "footprint_value": 7,
-    "footprint_unit": "kgCO2e"
-  },
-  {
-    "identifier": "FLOUR_4718",
-    "country": "CH",
-    "description": "Flour from Switzerland",
-    "footprint_value": 5,
     "footprint_unit": "kgCO2e"
   }
 ]

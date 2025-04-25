@@ -25,74 +25,74 @@
   },
   {
     "identifier": "AIR",
-    "factor": 4.5,
-    "target_country": "PL",
+    "factor": 3.4,
+    "target_country": "IT",
     "origin_country": "DE"
   },
   {
     "identifier": "TRUCK",
     "factor": 2.7,
-    "target_country": "PL",
+    "target_country": "IT",
     "origin_country": "DE"
   },
   {
     "identifier": "TRAIN",
+    "factor": 2.1,
+    "target_country": "IT",
+    "origin_country": "DE"
+  },
+  {
+    "identifier": "SHIP",
+    "factor": 4.4,
+    "target_country": "IT",
+    "origin_country": "DE"
+  },
+  {
+    "identifier": "AIR",
+    "factor": 1.9,
+    "target_country": "IT",
+    "origin_country": "IT"
+  },
+  {
+    "identifier": "TRUCK",
     "factor": 1.5,
-    "target_country": "PL",
-    "origin_country": "DE"
-  },
-  {
-    "identifier": "SHIP",
-    "factor": 3.2,
-    "target_country": "PL",
-    "origin_country": "DE"
-  },
-  {
-    "identifier": "AIR",
-    "factor": 3.4,
-    "target_country": "CH",
-    "origin_country": "DE"
-  },
-  {
-    "identifier": "TRUCK",
-    "factor": 1.8,
-    "target_country": "CH",
-    "origin_country": "DE"
+    "target_country": "IT",
+    "origin_country": "IT"
   },
   {
     "identifier": "TRAIN",
-    "factor": 1.3,
-    "target_country": "CH",
-    "origin_country": "DE"
-  },
-  {
-    "identifier": "AIR",
-    "factor": 4.9,
+    "factor": 1.05,
     "target_country": "IT",
-    "origin_country": "DE"
-  },
-  {
-    "identifier": "TRUCK",
-    "factor": 3,
-    "target_country": "IT",
-    "origin_country": "DE"
-  },
-  {
-    "identifier": "TRUCK",
-    "factor": 2.4,
-    "target_country": "IT",
-    "origin_country": "ES"
-  },
-  {
-    "identifier": "TRAIN",
-    "factor": 2,
-    "target_country": "IT",
-    "origin_country": "DE"
+    "origin_country": "IT"
   },
   {
     "identifier": "SHIP",
-    "factor": 3.5,
+    "factor": 2.9,
     "target_country": "IT",
-    "origin_country": "DE"
+    "origin_country": "IT"
+  },
+  {
+    "identifier": "AIR",
+    "factor": 2.7,
+    "target_country": "DE",
+    "origin_country": "IT"
+  },
+  {
+    "identifier": "TRUCK",
+    "factor": 2.6,
+    "target_country": "DE",
+    "origin_country": "IT"
+  },
+  {
+    "identifier": "TRAIN",
+    "factor": 2.0,
+    "target_country": "DE",
+    "origin_country": "IT"
+  },
+  {
+    "identifier": "SHIP",
+    "factor": 4.3,
+    "target_country": "DE",
+    "origin_country": "IT"
   }
 ]
