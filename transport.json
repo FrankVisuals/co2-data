@@ -78,6 +78,12 @@
     "origin_country": "DE"
   },
   {
+    "identifier": "TRUCK",
+    "factor": 2.4,
+    "target_country": "IT",
+    "origin_country": "ES"
+  },
+  {
     "identifier": "TRAIN",
     "factor": 2,
     "target_country": "IT",
